@@ -1,4 +1,4 @@
-
+//comments
 public class Rectangle {
 	int length;
 	int width;
@@ -24,5 +24,6 @@ public class Rectangle {
 		r2.calculateArea();
 
 	}
+
 
 }
